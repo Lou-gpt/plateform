@@ -358,3 +358,11 @@ main {
     display: flex;
     flex-direction: row-reverse;
 }
+a {
+    color: white; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
